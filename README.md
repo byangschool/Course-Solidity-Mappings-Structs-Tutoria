@@ -42,7 +42,7 @@ To copy your account address / select in between accounts, press the arrows on t
 
 ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.15.26%20PM.png)
 
-Here I am going to setInstructor my account address, 25 (age), Benson (fName), Yang (lName) :
+Here I am going to use setInstructor. my account address, 25 (age), Benson (fName), Yang (lName) :
 
 ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.15.46%20PM.png)
 
