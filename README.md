@@ -20,9 +20,13 @@ Switch to the 2nd tab "Run" on the upper right, and switch the Environment to We
 
 ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.13.56%20PM.png)
 
-Press the "Deploy" button as shown here : ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.14.06%20PM.png)
+Press the "Deploy" button as shown here : 
 
-Scroll down and you should see this : ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.14.13%20PM.png)
+![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.14.06%20PM.png)
+
+Scroll down and you should see this : 
+
+![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.14.13%20PM.png)
 
 Here is where you can call and use the functions. 
 
