@@ -50,7 +50,7 @@ Reminder : It is totally possible to call setInstructor multiple times to have m
 
 ## getInstructors Function
 
-Returns the array with all the instructor accounts.
+Returns the array with all the instructor account addresses.
 
 ![alt text](https://github.com/byangschool/Course-Solidity-Mappings-Structs-Tutoria/blob/master/Images/Screen%20Shot%202019-04-17%20at%2010.16.25%20PM.png)
 
